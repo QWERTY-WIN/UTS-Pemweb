@@ -1,0 +1,21 @@
+<table border="1">
+
+    <tr>
+        <th>No</th>
+        <th>Judul Buku</th>
+        <th>Pengarang</th>
+        <th>Tahun Terbit</th>
+    </tr>
+
+    <?php foreach ($buku as $index => $baris) { ?>
+
+        <tr>
+            <td><?php echo $index + 1; ?></td>
+            <td><?php echo $baris["judul"]; ?></td>
+            <td><?php echo $baris["pengarang"]; ?></td>
+            <td><?php echo $baris["tahun"]; ?></td>
+        </tr>
+
+    <?php }; ?>
+
+</table>

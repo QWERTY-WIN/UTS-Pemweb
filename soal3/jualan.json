@@ -1,0 +1,89 @@
+[
+    {
+        "Name": "Baju Muslim Pria",
+        "harga": 105000,
+        "ukuran": "XL",
+        "gambar": "images/baju-muslim-pria.jpg",
+        "Contact": {
+        "email": "admin@jualanbaju.com",
+        "Phone": 123456789,
+        "Address": "Jl. Ahmad Yani No.0 Surabaya"	
+        },
+        "warna": [
+            "abu-abu",
+            "maroon",
+            "coklat",
+            "putih"
+        ]
+    },
+    {
+        "Name": "kemeja",
+        "harga": 105000,
+        "ukuran": "XL",
+        "gambar": "images/kemeja.png",
+        "Contact": {
+        "email": "admin@jualanbaju.com",
+        "Phone": 123456789,
+        "Address": "Jl. Ahmad Yani No.0 Surabaya"	
+        },
+        "warna": [
+            "Merah",
+            "biru",
+            "Hijau",
+            "abu-abu",
+            "coklat"
+        ]
+    },
+    {
+        "Name": "sarung",
+        "harga": 105000,
+        "ukuran": "XL",
+        "gambar": "images/sarung.png",
+        "Contact": {
+        "email": "admin@jualanbaju.com",
+        "Phone": 123456789,
+        "Address": "Jl. Ahmad Yani No.0 Surabaya"	
+        },
+        "warna": [
+            "Merah",
+            "Kuning",
+            "hijau",
+            "hitam-kuning",
+            "hitam"
+        ]
+    },
+    {
+        "Name": "jas",
+        "harga": 105000,
+        "ukuran": "XL",
+        "gambar": "images/jas.jpg",
+        "Contact": {
+        "email": "admin@jualanbaju.com",
+        "Phone": 123456789,
+        "Address": "Jl. Ahmad Yani No.0 Surabaya"	
+        },
+        "warna": [
+            "Merah",
+            "abu-abu",
+            "hitam"
+        ]
+    },
+    {
+        "Name": "batik",
+        "harga": 105000,
+        "ukuran": "XL",
+        "gambar": "images/batik.jpg",
+        "Contact": {
+        "email": "admin@jualanbaju.com",
+        "Phone": 123456789,
+        "Address": "Jl. Ahmad Yani No.0 Surabaya"	
+        },
+        "warna": [
+            "Merah",
+            "Kuning",
+            "biru",
+            "abu-abu",
+            "coklat"
+        ]
+    }
+] 
